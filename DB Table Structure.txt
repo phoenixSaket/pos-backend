@@ -1,0 +1,38 @@
+==============================================================================
+Create a New Account : 
+==============================================================================
+
+For Profile :
+    id : self-generated
+    fname : Required
+    lname
+    gender
+    age
+    photo
+
+For contact : 
+    id : self-generated
+    mobile
+    landline
+    email : Required
+
+For account : 
+    id:
+    to_receive : 0
+    received : 0
+
+For user :
+    id
+    profile_id
+    contact_id
+    account_id
+    purchase_id
+    username
+    password
+
+==============================================================================
+Login :
+==============================================================================
+
+username
+password
